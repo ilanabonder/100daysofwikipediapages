@@ -1,0 +1,723 @@
+[
+  {
+    "name": "Adela Hernandez Gonzmart",
+    "img": 1,
+    "life": "(1920-2001",
+    "date": 2018,
+    "desc": "Restauranteur and patron of the arts in the Ybor City area of Tampa"
+  },
+  {
+    "name": "Janet Petro",
+    "img": 2,
+    "life": "1960",
+    "date": 2018,
+    "desc": "Deputy Director of the Kennedy Space Center since 2007, first woman to have that role"
+  },
+  {
+    "name": "Lee Bird Leavengood",
+    "img": 3,
+    "life": "1928",
+    "date": 2018,
+    "desc": "Member of first gender-integrated class at the University of Florida; three decades of administration at University of South Florida"
+  },
+  {
+    "name": "Mary Lou Baker",
+    "img": 4,
+    "life": "(c1915 -1965",
+    "date": 2017,
+    "desc": "Florida House of Representatives Responsible for the passage of Florida's 1943 women's rights legislation that enabled women to run the family business if the husband entered the military. Elected and served while keeping her maiden name."
+  },
+  {
+    "name": "Kathleen Scott Robertson",
+    "img": 5,
+    "life": "1921",
+    "date": 2017,
+    "desc": "One of the first 7 WAVES to enlist in the United States Navy"
+  },
+  {
+    "name": "Katherine Fernandez Rundle",
+    "img": 6,
+    "life": "1950",
+    "date": 2017,
+    "desc": "Florida's first Cuban-American State Attorney"
+  },
+  {
+    "name": "Carol Jenkins Barnett",
+    "img": "",
+    "life": "1956",
+    "date": 2016,
+    "desc": "President of Publix Super Markets Charities, Inc."
+  },
+  {
+    "name": "Helen Aguirre Ferré",
+    "img": "",
+    "life": "1957",
+    "date": 2016,
+    "desc": "Journalist"
+  },
+  {
+    "name": "Elmira Louise Leto",
+    "img": "",
+    "life": "1949",
+    "date": 2016,
+    "desc": "Founder and CEO of Samuel's House, Inc., an agency to provide housing to the homeless"
+  },
+  {
+    "name": "Mary Lee Farrior",
+    "img": "",
+    "life": "1937",
+    "date": 2015,
+    "desc": "Coca-Cola heir from Tampa who gave $1 million to start Mary Lee's House, a center combining facilities for child abuse prevention, assessment, forensics and counseling"
+  },
+  {
+    "name": "Evelyn Cahn Keiser",
+    "img": "",
+    "life": "1924",
+    "date": 2015,
+    "desc": "Co-founded the Keiser School in 1977"
+  },
+  {
+    "name": "Charlotte E. Maguire",
+    "img": "",
+    "life": "(1918–2014",
+    "date": 2015,
+    "desc": "First woman physician in Orlando, founded one of the first pediatric clinics in Florida"
+  },
+  {
+    "name": "Susan Benton",
+    "img": "",
+    "life": "1949",
+    "date": 2014,
+    "desc": "Sheriff of Highlands County, Florida; 2013 President of the Florida Sheriff's Association; first female sheriff elected in a general election in Florida history"
+  },
+  {
+    "name": "Louise Jones Gopher",
+    "img": "",
+    "life": "1945",
+    "date": 2014,
+    "desc": "First woman from the Seminole Tribe of Florida to earn a college degree"
+  },
+  {
+    "name": "Dottie Berger MacKinnon",
+    "img": "",
+    "life": "(1942–2013",
+    "date": 2014,
+    "desc": "Founder of Joshua House, advocate for women and children"
+  },
+  {
+    "name": "Clara C. Frye",
+    "img": "",
+    "life": "(1872–1936",
+    "date": 2013,
+    "desc": "African American nurse in Tampa, Florida who established the Clara Frye Hospital"
+  },
+  {
+    "name": "Aleene Pridgen Kidd MacKenzie",
+    "img": "",
+    "life": "(1921–2013",
+    "date": 2013,
+    "desc": "Assistant Director of Development at Florida State University, first Chair of the Governor's Commission on the Status of Women"
+  },
+  {
+    "name": "Lillie Pierce Voss",
+    "img": "",
+    "life": "(1876–1967",
+    "date": 2013,
+    "desc": "Writer and early pioneer; interacted with the Seminole Indians as a child, earning the nickname \"Sweetheart of the Barefoot Mailmen"
+  },
+  {
+    "name": "Ruth H. Alexander",
+    "img": "",
+    "life": "1938",
+    "date": 2012,
+    "desc": "Established the \"Lady Gator Athletic\"program"
+  },
+  {
+    "name": "Vicki Bryant Burke",
+    "img": "",
+    "life": "1953",
+    "date": 2012,
+    "desc": "Social worker, juvenile justice system"
+  },
+  {
+    "name": "Elizabeth \"Budd\"Bell",
+    "img": "",
+    "life": "(1915–2009",
+    "date": 2012,
+    "desc": "Social worker"
+  },
+  {
+    "name": "Mary Brennan Karl",
+    "img": "",
+    "life": "(1890–1948",
+    "date": 2011,
+    "desc": "Education pioneer whose efforts were a foundation of what later became Daytona Beach Junior College"
+  },
+  {
+    "name": "Anna I. Rodriguez",
+    "img": "",
+    "life": "1957",
+    "date": 2011,
+    "desc": "Founder Florida Coalition Against Human Trafficking"
+  },
+  {
+    "name": "Eugenie Clark",
+    "img": "",
+    "life": "(1922–2015",
+    "date": 2010,
+    "desc": "Ichthyologist"
+  },
+  {
+    "name": "Claudine Dianne Ryce",
+    "img": "",
+    "life": "(1943–2009",
+    "date": 2010,
+    "desc": "Advocate for missing children"
+  },
+  {
+    "name": "Dara Grace Torres",
+    "img": "",
+    "life": "1961",
+    "date": 2010,
+    "desc": "Olympic gold-silver-bronze medalist swimmer"
+  },
+  {
+    "name": "Louise H. Courtelis",
+    "img": "",
+    "life": "1932",
+    "date": 2009,
+    "desc": "Philanthropist"
+  },
+  {
+    "name": "Gwen Margolis",
+    "img": "",
+    "life": "1934",
+    "date": 2009,
+    "desc": "Member of Florida Senate"
+  },
+  {
+    "name": "Betty Schlesinger Sembler",
+    "img": "",
+    "life": "1931",
+    "date": 2009,
+    "desc": "Anti-drug activist and wife of ambassador Mel Sembler, with whom she co-founded the drug treatment program Straight, Incorporated"
+  },
+  {
+    "name": "Barbara J. Pariente",
+    "img": "",
+    "life": "1948",
+    "date": 2008,
+    "desc": "Former Chief Justice Florida Supreme Court"
+  },
+  {
+    "name": "Pallavi Patel",
+    "img": "",
+    "life": "1950",
+    "date": 2008,
+    "desc": "Pediatrician, philanthropist who with her husband co-founded Carousel Elephants, the Patel Foundation for Global Understanding"
+  },
+  {
+    "name": "Ileana Ros-Lehtinen",
+    "img": "",
+    "life": "1952",
+    "date": 2008,
+    "desc": "U.S. RepresentativeHouse Committee on Foreign Affairs"
+  },
+  {
+    "name": "Maryly VanLeer Peck",
+    "img": "",
+    "life": "(1930–2011",
+    "date": 2007,
+    "desc": "President of Polk Community College1982–1997"
+  },
+  {
+    "name": "Peggy A. Quince",
+    "img": "",
+    "life": "1948",
+    "date": 2007,
+    "desc": "Justice and former Chief Justice Supreme Court of Florida"
+  },
+  {
+    "name": "Caridad Asensio",
+    "img": "",
+    "life": "(1931–2011",
+    "date": 2006,
+    "desc": "Farm worker advocate, founder Caridad Asensio Health Clinic, providing free health care for farm workers"
+  },
+  {
+    "name": "Tillie Kidd Fowler",
+    "img": "",
+    "life": "(1942–2005",
+    "date": 2006,
+    "desc": "United States House of Representatives"
+  },
+  {
+    "name": "Lucy W. Morgan",
+    "img": "",
+    "life": "1940",
+    "date": 2006,
+    "desc": "Journalist"
+  },
+  {
+    "name": "Shirley D. Coletti",
+    "img": "",
+    "life": "1935",
+    "date": 2005,
+    "desc": "Co-founder of substance abuse program Operation PAR, Inc"
+  },
+  {
+    "name": "Judith Kersey",
+    "img": "",
+    "life": "1943",
+    "date": 2005,
+    "desc": "Scientist, worked as an engineer in America's space program"
+  },
+  {
+    "name": "Marion P. Hammer",
+    "img": "",
+    "life": "1939",
+    "date": 2005,
+    "desc": "First female President of National Rifle Association"
+  },
+  {
+    "name": "Sarah Ann Blocker",
+    "img": "",
+    "life": "(1857–1944",
+    "date": 2003,
+    "desc": "co-founder of Florida Memorial College"
+  },
+  {
+    "name": "Gloria Estefan",
+    "img": "",
+    "life": "1957",
+    "date": 2003,
+    "desc": "Entertainer"
+  },
+  {
+    "name": "Mary R. Grizzle",
+    "img": "",
+    "life": "(1921–2006",
+    "date": 2003,
+    "desc": "Legislator, advocate of the Equal Rights Amendment; served in both houses of the Florida state legislature. At the end of her career as a representative, she was the longest-serving member of the legislature. She helped pass bills on waste water clean-up and on married women attaining full property rights without a husband's permission."
+  },
+  {
+    "name": "Victoria Joyce Ely",
+    "img": "",
+    "life": "(1889–1979",
+    "date": 2002,
+    "desc": "First licensed midwife in Florida; served in the Army Nurse Corpsduring World War I; pioneer in Florida nursing care"
+  },
+  {
+    "name": "Toni Jennings",
+    "img": "",
+    "life": "1949",
+    "date": 2002,
+    "desc": "16th (and first female) Lieutenant Governor of Florida"
+  },
+  {
+    "name": "Frances Langford Stuart",
+    "img": "",
+    "life": "(1913–2005",
+    "date": 2002,
+    "desc": "Entertainer"
+  },
+  {
+    "name": "Jessie Ball duPont",
+    "img": "",
+    "life": "(1884–1970",
+    "date": 2001,
+    "desc": "Philanthropist"
+  },
+  {
+    "name": "Lynda Keever",
+    "img": "",
+    "life": "1947",
+    "date": 2001,
+    "desc": "Publisher, CEO Florida Trend Magazine"
+  },
+  {
+    "name": "Lenore Carrero Nesbitt",
+    "img": "",
+    "life": "(1932–2001",
+    "date": 2001,
+    "desc": "Nominated by President Ronald Reaganto a Federal judgeship"
+  },
+  {
+    "name": "Chris Evert",
+    "img": "",
+    "life": "1954",
+    "date": 2000,
+    "desc": "Tennis pro"
+  },
+  {
+    "name": "Paula Hawkins",
+    "img": "",
+    "life": "(1927–2003",
+    "date": 2000,
+    "desc": "First Florida female elected to the United States Senate"
+  },
+  {
+    "name": "Marianne Mathewson-Chapman",
+    "img": "",
+    "life": "1948",
+    "date": 2000,
+    "desc": "First woman in the Army National Guard to attain rank of Major General"
+  },
+  {
+    "name": "Althea Gibson",
+    "img": "",
+    "life": "(1927–2003",
+    "date": 1999,
+    "desc": "Champion tennis player, a pioneering African-American in the sport"
+  },
+  {
+    "name": "Sister Jeanne O'Laughlin",
+    "img": "",
+    "life": "1929",
+    "date": 1999,
+    "desc": "First president of Barry University"
+  },
+  {
+    "name": "Dessie Smith Prescott",
+    "img": "",
+    "life": "(1906–2002",
+    "date": 1999,
+    "desc": "First licensed female pilot in Florida, served in the Women's Army Corps in World War II, first female professional guide in Florida"
+  },
+  {
+    "name": "Helen Davis",
+    "img": "",
+    "life": "(1926–2015",
+    "date": 1998,
+    "desc": "Florida state legislator, social activist"
+  },
+  {
+    "name": "Mattie Belle Davis",
+    "img": "",
+    "life": "(1910–2004",
+    "date": 1998,
+    "desc": "Jurist who helped establish the Florida Association of Women Lawyers"
+  },
+  {
+    "name": "Christine Fulwylie-Bankston",
+    "img": "",
+    "life": "(1916–1998",
+    "date": 1998,
+    "desc": "Poet, social activist, civil rights"
+  },
+  {
+    "name": "Alicia Baro",
+    "img": "",
+    "life": "(1918–2012",
+    "date": 1997,
+    "desc": "Social and political activist"
+  },
+  {
+    "name": "Carita Doggett Corse",
+    "img": "",
+    "life": "(1891–1978",
+    "date": 1997,
+    "desc": "Florida director of Federal Writers' Project"
+  },
+  {
+    "name": "M. Athalie Range",
+    "img": "",
+    "life": "(1916–2006",
+    "date": 1997,
+    "desc": "Political activist, first African-American and second woman elected to the Miami City Council"
+  },
+  {
+    "name": "Marjorie Harris Carr",
+    "img": "",
+    "life": "(1915–1998",
+    "date": 1996,
+    "desc": "Conservationist"
+  },
+  {
+    "name": "Betty Castor",
+    "img": "",
+    "life": "1941",
+    "date": 1996,
+    "desc": "Former president of USF, member of J. William Fulbright Foreign Scholarship Board"
+  },
+  {
+    "name": "Ivy Julia Cromartie Stranahan",
+    "img": "",
+    "life": "(1881–1971",
+    "date": 1996,
+    "desc": "Women's suffrage, social activist, environmental activist, helped Seminole tribe move to the Dania reservation"
+  },
+  {
+    "name": "Evelyn Stocking Crosslin",
+    "img": "",
+    "life": "(1919–1991",
+    "date": 1995,
+    "desc": "Physician"
+  },
+  {
+    "name": "JoAnn Hardin Morgan",
+    "img": "",
+    "life": "1940",
+    "date": 1995,
+    "desc": "First female engineer at NASA, first woman senior executive at Kennedy Space Center"
+  },
+  {
+    "name": "Sarah Brooks Pryor",
+    "img": "",
+    "life": "(1877–1972",
+    "date": 1995,
+    "desc": "Civic activist, historic preservationist, known affectionately as \"Aunt Frances"
+  },
+  {
+    "name": "Nikki Beare",
+    "img": "",
+    "life": "(1928–2014",
+    "date": 1994,
+    "desc": "Political and social activist, supported the Equal Rights Amendment"
+  },
+  {
+    "name": "Betty Mae Tiger Jumper",
+    "img": "",
+    "life": "(1923–2011",
+    "date": 1994,
+    "desc": "First female chief of Seminole Tribe of Florida"
+  },
+  {
+    "name": "Gladys Nichols Milton",
+    "img": "",
+    "life": "(1924–1999",
+    "date": 1994,
+    "desc": "Advocated midwives be recognized as medical practitioners"
+  },
+  {
+    "name": "Betty Skelton Frankman Erde",
+    "img": "",
+    "life": "(1926–2011",
+    "date": 1993,
+    "desc": "Aerobatics championship aviator"
+  },
+  {
+    "name": "Paulina Pedroso",
+    "img": "",
+    "life": "(1845–1925",
+    "date": 1993,
+    "desc": "Activist in the Cuban War of Independence"
+  },
+  {
+    "name": "Janet Reno",
+    "img": "",
+    "life": "1941",
+    "date": 1993,
+    "desc": "Former Attorney General of the United States"
+  },
+  {
+    "name": "Jacqueline Cochran",
+    "img": "",
+    "life": "(1910–1980",
+    "date": 1992,
+    "desc": "Aviator"
+  },
+  {
+    "name": "Carrie P. Meek",
+    "img": "",
+    "life": "1926",
+    "date": 1992,
+    "desc": "United States House of Representatives"
+  },
+  {
+    "name": "Ruth Bryan Owen",
+    "img": "",
+    "life": "(1885–1954",
+    "date": 1992,
+    "desc": "Florida's first female in the U.S. Congress, U.S. Ambassador to Denmark, appointed by President Franklin D. Roosevelt; daughter of William Jennings Bryan"
+  },
+  {
+    "name": "Annie Ackerman",
+    "img": "",
+    "life": "(1914–1989",
+    "date": 1986,
+    "desc": "Political activist"
+  },
+  {
+    "name": "Rosemary Barkett",
+    "img": "",
+    "life": "1939",
+    "date": 1986,
+    "desc": "Judge, U.S. Court of Appeals, appointed by President Bill Clinton"
+  },
+  {
+    "name": "Gwen Cherry",
+    "img": "",
+    "life": "(1923–1979",
+    "date": 1986,
+    "desc": "Lawyer and legislator who introduced into the legislature the Equal Rights Amendment, Martin Luther King state holiday"
+  },
+  {
+    "name": "Dorothy Dodd",
+    "img": "",
+    "life": "(1902–1994",
+    "date": 1986,
+    "desc": "Florida state archivist and state librarian"
+  },
+  {
+    "name": "Marjory Stoneman Douglas",
+    "img": "",
+    "life": "(1890–1998",
+    "date": 1986,
+    "desc": "Evergladespreservationist"
+  },
+  {
+    "name": "Elsie Jones Hare",
+    "img": "",
+    "life": "(1903–1985",
+    "date": 1986,
+    "desc": "Educator"
+  },
+  {
+    "name": "Elizabeth McCullough Johnson",
+    "img": "",
+    "life": "(1909–1973",
+    "date": 1986,
+    "desc": "Florida State Representative and Senator"
+  },
+  {
+    "name": "Frances Bartlett Kinne",
+    "img": "",
+    "life": "",
+    "date": 1986,
+    "desc": "Educator, academic"
+  },
+  {
+    "name": "Arva Moore Parks McCabe",
+    "img": "",
+    "life": "1939",
+    "date": 1986,
+    "desc": "Author, filmmaker"
+  },
+  {
+    "name": "Marjorie Kinnan Rawlings",
+    "img": "",
+    "life": "(1896–1953",
+    "date": 1986,
+    "desc": "Author, won the Pulitzer Prize for The Yearling"
+  },
+  {
+    "name": "Florence Barbara Seibert",
+    "img": "",
+    "life": "(1897–1991",
+    "date": 1986,
+    "desc": "Biochemist, inventor of the standard tuberculosistest"
+  },
+  {
+    "name": "Marilyn K. Smith",
+    "img": "",
+    "life": "(1936–1985",
+    "date": 1986,
+    "desc": "Volunteerism"
+  },
+  {
+    "name": "Eartha M. M. White",
+    "img": "",
+    "life": "(1876–1974",
+    "date": 1986,
+    "desc": "Humanitarian and educator who founded the Clara White Mission and the Eartha M.M. White Nursing Home"
+  },
+  {
+    "name": "Roxcy O'Neal Bolton",
+    "img": "",
+    "life": "1926",
+    "date": 1984,
+    "desc": "Feminist, women's rights, founder Florida chapter of National Organization for Women"
+  },
+  {
+    "name": "Barbara Landstreet Frye",
+    "img": "",
+    "life": "(1922–1982",
+    "date": 1984,
+    "desc": "Capitol Bureau Chief for United Press International"
+  },
+  {
+    "name": "Lena B. Smithers Hughes",
+    "img": "",
+    "life": "(1910–1987",
+    "date": 1984,
+    "desc": "Botanist who developed virus-free strains of the Valencia orange"
+  },
+  {
+    "name": "Zora Neale Hurston",
+    "img": "",
+    "life": "(1891–1960",
+    "date": 1984,
+    "desc": "Folklorist, anthropologist, and author"
+  },
+  {
+    "name": "Sybil Collins Mobley",
+    "img": "",
+    "life": "(1925–2015",
+    "date": 1984,
+    "desc": "Dean of the School of Business and Industry at Florida A&M University"
+  },
+  {
+    "name": "Helen Muir",
+    "img": "",
+    "life": "(1911–2006",
+    "date": 1984,
+    "desc": "Journalist, author of books on Florida"
+  },
+  {
+    "name": "Gladys Pumariega Soler",
+    "img": "",
+    "life": "(1930–1993",
+    "date": 1984,
+    "desc": "Pediatrician"
+  },
+  {
+    "name": "Julia DeForest Sturtevant Tuttle",
+    "img": "",
+    "life": "(1848–1898",
+    "date": 1984,
+    "desc": "Business woman, land owner of what became Miami, Florida"
+  },
+  {
+    "name": "Mary McLeod Bethune",
+    "img": "",
+    "life": "(1875–1955",
+    "date": 1982,
+    "desc": "Civil rights leader"
+  },
+  {
+    "name": "Helene S. Coleman",
+    "img": "",
+    "life": "1925",
+    "date": 1982,
+    "desc": "President of the National Council of Jewish Women"
+  },
+  {
+    "name": "Elaine Gordon",
+    "img": "",
+    "life": "(1931–2000",
+    "date": 1982,
+    "desc": "Legislator"
+  },
+  {
+    "name": "Wilhelmina Celeste Goehring Harvey",
+    "img": "",
+    "life": "(1912–2005",
+    "date": 1982,
+    "desc": "Mayor of Key West, Florida"
+  },
+  {
+    "name": "Paula Mae Milton",
+    "img": "",
+    "life": "(1939–1980",
+    "date": 1982,
+    "desc": "Creative arts civic leader"
+  },
+  {
+    "name": "Barbara Jo Palmer",
+    "img": "",
+    "life": "1948",
+    "date": 1982,
+    "desc": "Florida State University Director of Women's Intercollegiate Athletics"
+  }
+]
