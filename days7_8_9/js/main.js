@@ -73,15 +73,17 @@ let myShakeEvent = new Shake({
 });
 
 function listenToShake(){
+  clickity = 3;
   console.log('i am listening to the shake!')
   myShakeEvent.start()
-  window.addEventListener('shake', shakeEventDidOccur, false);
-  // shakeEventDidOccur();
+  // window.addEventListener('shake', shakeEventDidOccur, false);
+  shakeEventDidOccur();
 }
 
 let myNumbers = [];
 
 function shakeEventDidOccur () {
+  clickity = 3;
   $("body").css("background-color", "white");
   let url = '../poems.json';
   fetch(url)
