@@ -60,8 +60,8 @@ function createIntro(){
 
 function shakePage(){
   clickity = 3;
-  $("h2, h1").remove();
-  $("body").css("background-color", "black")
+  $("h2, h1, img, h4").remove();
+  $("body").css("background-color", "black");
   $("#mycontent").append("<img id='shake-img' src='shake.png' alt='shake your phone image'><h4 style='color: white; font-weight: 300;'>shake your phone to discover new  goyoshi poems</h4>")
 
   listenToShake();
@@ -82,6 +82,7 @@ function listenToShake(){
 let myNumbers = [];
 
 function shakeEventDidOccur () {
+  $("body").css("background-color", "white");
   let url = '../poems.json';
   fetch(url)
   .then(response => response.json())
