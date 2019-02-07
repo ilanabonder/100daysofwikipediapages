@@ -40,7 +40,7 @@ function createIntro(){
       }
   });
   if (clickity == 2){
-  setTimeout(shakePage, 7000);
+  setTimeout(shakePage, 5000);
   }
 }
 // var i = 0;
