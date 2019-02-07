@@ -39,9 +39,10 @@ function createIntro(){
         shakePage();
       }
   });
+  if (clickity == 2){
   setTimeout(shakePage, 7000);
+  }
 }
-
 // var i = 0;
 // var txt = 'Is the freest among other Japanese five-line poetic forms. It incorporates no syllabic or line-breaks and no rhyme scheme. One of the only rules is that it must have a title. ';
 // var speed = 80;
@@ -76,8 +77,8 @@ function listenToShake(){
   clickity = 3;
   console.log('i am listening to the shake!')
   myShakeEvent.start()
-  // window.addEventListener('shake', shakeEventDidOccur, false);
-  shakeEventDidOccur();
+  window.addEventListener('shake', shakeEventDidOccur, false);
+  // shakeEventDidOccur();
 }
 
 let myNumbers = [];
