@@ -1,0 +1,34 @@
+body {
+  --top: 0;
+  padding: 1000px 0;
+}
+
+.stack{
+  position:relative;
+}
+
+.paralax {
+  position: absolute;
+  top: calc(-.2px*var(--top));
+}
+
+.paralax-2 {
+  top: calc(-1px*var(--top));
+}
+
+.paralax-3 {
+  top: calc(-5px*var(--top));
+}
+
+.paralax-4 {
+  position: absolute;
+  top: calc(-.4px*var(--top));
+}
+
+.paralax-5 {
+  top: calc(-2px*var(--top));
+}
+
+.paralax-6 {
+  top: calc(-10px*var(--top));
+}
